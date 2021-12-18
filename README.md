@@ -12,6 +12,6 @@ Project will consist of 3 phases:
      -Customer's perspective 
      -(Debatable) Money class 
 
-2)Gui implementation for the full experience of start to finish of a customer creatinga an account and how the bank manages the registry of the account along with the customer's money
+2) Gui implementation for the full experience of start to finish of a customer creatinga an account and how the bank manages the registry of the account along with the customer's money
 
 3) (may blend into 2 ) Scenebuilder- which also help cut phase 2 programming time down a bit.  It is a software to help with designing guis making life easier and simple. 
