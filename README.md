@@ -1,4 +1,4 @@
-Project Timeline: (Over Christmas break - Start of Spring semester)
+Project Timeline: (Over Christmas break - Start of Spring semester).
 
 Project Topic- Simple Accounting System and Banking
 
